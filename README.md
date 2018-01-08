@@ -9,7 +9,7 @@ Una vez clonado el proyecto, tenderemos que hacer un `npm install`, para carga d
 ## Arranque del servidor
 
 1. Arrancar dbmongo. La base de datos y colecciones se crean automáticamente si no existen.
-2. node ./bin/www o npm start (ver package.json)
+2. `node ./bin/www` o `npm start` (ver package.json)
 
 
 ## Build
