@@ -1,5 +1,5 @@
 # MeanBackEnd
-Recibe las peticiones CRUD http y las materializa sobre la MongoDB.
+Recibe las peticiones CRUD http soble localhost en el puerto 3000 y las materializa sobre la MongoDB.
 Para descargar la parte cliente, hay que clonar también el proyecto mean_users_frontend.
 
 ## Pasos instalación
